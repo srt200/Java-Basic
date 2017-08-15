@@ -1,21 +1,11 @@
 /******************************************************************************
  *  Compilation:  javac RandomInt.java
  *  Execution:    java RandomInt N
- *  
- *  Prints a pseudo-random integer between 0 and N-1.
- *  Illustrate an explicit type conversion (cast) from double to int.
+ 
+ * @author adesh varma
+ *version: 1.0
+ * status: 14- 08-2017
  *
- *  % java RandomInt 6
- *  Your random integer is: 5
- *
- *  % java RandomInt 6
- *  Your random integer is: 0
- *
- *  % java RandomInt 1000
- *  Your random integer is: 129
- *
- *  % java RandomInt 1000
- *  Your random integer is: 333
  *
  ******************************************************************************/
 
